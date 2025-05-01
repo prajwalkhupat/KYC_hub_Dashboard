@@ -29,7 +29,7 @@ Figma (for UI prototyping and design)
 Frontend Setup
 Clone the repository:
 
-git clone https://github.com/your-username/credit-risk-dashboard.git
+git clone https://github.com/prajwalkhupat/KYC_hub_Dashboard.git
 Navigate to the project directory:
 
 cd credit-risk-dashboard
